@@ -8,7 +8,7 @@ layout: default
 
 ## Iniciativa EDUCA+
 
-Esta página web ha sido creado como parte de la Iniciativa EDUCA+ presentada por el docente Saneli Alcides Carbajal Vigo a la Universidad Privada del Norte (UPN).
+Esta página web ha sido creada como parte de la Iniciativa EDUCA+ presentada por el docente Saneli Alcides Carbajal Vigo a la Universidad Privada del Norte (UPN).
 
 ## Simulaciones Computacionales
 
