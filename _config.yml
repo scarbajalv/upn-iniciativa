@@ -22,7 +22,7 @@ title: Iniciativa EDUCA+
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   Iniciativa Presentada Por Saneli Carbajal Vigo
-baseurl: "/ccc" # the subpath of your site, e.g. /blog
+baseurl: "/upn-iniciativa" # the subpath of your site, e.g. /blog
 #baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb

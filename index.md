@@ -19,7 +19,7 @@ Si bien es cierto los cursos totalmente virtuales son más accesibles a los estu
 Afortunadamente, la virtualidad hace posible que se puedan crear soluciones para que los estudiantes puedan apreciar los fenómenos a través de simulaciones computacionales. 
 
 <div id="simple-sketch-holder" style="position: relative; ">
-	<script type="text/javascript" src="/ccc/tests/moon_01/sketch.js"></script>
+	<script type="text/javascript" src="/upn-iniciativa/tests/moon_01/sketch.js"></script>
 </div>
 
 Sin embargo, las simulaciones computacionales también presentas grandes retos, entre los cuales se encuentran:

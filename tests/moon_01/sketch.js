@@ -58,8 +58,8 @@ function setup() {
 	button2.mousePressed(NewpauseDraw);
 	button2.parent('simple-sketch-holder');*/
 
-	img_earth = loadImage('/ccc/tests/moon_01/img-earth.png'); // Load the image
-	img_moon = loadImage('/ccc/tests/moon_01/img-moon.png'); // Load the image
+	img_earth = loadImage('/upn-iniciativa/tests/moon_01/img-earth.png'); // Load the image
+	img_moon = loadImage('/upn-iniciativa/tests/moon_01/img-moon.png'); // Load the image
 
 	checkboxTrayec = createCheckbox('Trayectoria', false);
 	checkboxTrayec.style('color','white');
