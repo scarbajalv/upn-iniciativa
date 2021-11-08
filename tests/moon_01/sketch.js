@@ -32,7 +32,7 @@ var t2_ini = 0;
 
 function setup() {
 	//createCanvas(400, 400);
-	if(windowWidth > 655) canvas_w = 655;
+	if(windowWidth > 500) canvas_w = 500;
 	else canvas_w = windowWidth - 55;
 	canvas_h = canvas_w;
 	radius1 = 0.325*canvas_w;
@@ -40,6 +40,7 @@ function setup() {
 	
 	canvas = createCanvas(canvas_w, canvas_h);
 	canvas.parent('simple-sketch-holder');
+	//canvas.position((windowWidth - canvas_w)/2, (windowHeight - canvas_h)/2 );
 	frameRate(60);
 	
 	beginX = canvas_w/2; // Initial x-coordinate
@@ -57,8 +58,8 @@ function setup() {
 	button2.mousePressed(NewpauseDraw);
 	button2.parent('simple-sketch-holder');*/
 
-	img_earth = loadImage('img-earth.png'); // Load the image
-	img_moon = loadImage('img-moon.png'); // Load the image
+	img_earth = loadImage('/ccc/tests/moon_01/img-earth.png'); // Load the image
+	img_moon = loadImage('/ccc/tests/moon_01/img-moon.png'); // Load the image
 
 	checkboxTrayec = createCheckbox('Trayectoria', false);
 	checkboxTrayec.style('color','white');
