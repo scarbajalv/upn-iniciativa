@@ -32,20 +32,20 @@ La presente iniciativa busca formar una **comunidad de docentes y estudiantes qu
 
 Estas simulaciones pueden ser también **mejoradas y adaptadas para actuar como laboratorios virtuales** que los estudiantes pueden realizar y que los docentes pueden evaluar. La ventaja de tener control absoluto sobre los laboratorios virtuales radica en que estos se pueden ajustar a las necesidades de la universidad, además de presentar un **ahorro considerable de recursos**.
 
-A continuación se muestra una serie de simulaciones de distintos estilos como parte de la iniciativa:
+A continuación se muestran dos simulaciones de distintos estilos como parte de la iniciativa:
 
-[Luna y Tierra orbitando al Sol](./tests/earthmoon_01/index.html)
+* [Luna y Tierra orbitando al Sol](./tests/earthmoon_01/index.html)
 
-[Péndulo](./tests/pendulum/index.html)
+* [Péndulo](./tests/pendulum/index.html)
 
 
-Todas las simulaciones fueron desarrolladas usando la librería gratuita [p5.js](https://p5js.org/), la cual está basada  en el lenguaje de programación [javascript](https://www.javascript.com/).
+Todas las simulaciones fueron desarrolladas usando la librería gratuita [p5.js](https://p5js.org/), la cual fue creada por la colaboración de una gran comunidad con el fin específico de facilitar la creación de animaciones interactivas para fines de diseño y educación. La librería p5.js está basada  en el lenguaje de programación [javascript](https://www.javascript.com/).
 
 La iniciativa presenta las siguientes ventajas de impacto:
 1. La universidad tiene control absoluto sobre las simulaciones de los cursos.
 2. La universidad podría desarrollar sus propios laboratorios virtuales, lo cual se transforma en un ahorro de recursos.
 3. Genera una interacción entre docentes de distintas disciplinas, especialmente entre física e ingeniería de sistemas o informática.
 4. La participación de los estudiantes les brinda una experiencia desde el pregrado que luego podrán utilizar en sus vidas profesionales.
-5. Los docentes participantes se comprometen al desarrollo de la universidad y además mejoran sus habilidades profesionales, tanto en el manejo de lenguajes de programación como en las ciencias fisicas y la docencia.
+5. Los docentes participantes se comprometen al desarrollo de la universidad y además mejoran sus habilidades profesionales, tanto en el manejo de lenguajes de programación y el desarrollo web como en las ciencias fisicas y la docencia.
 
 

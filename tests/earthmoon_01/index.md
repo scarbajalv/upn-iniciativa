@@ -6,9 +6,11 @@ layout: default
 <script src="p5.js"></script>
 <script src="p5.sound.js"></script>
 
-## BIENVENIDO AL CCC (PRUEBA 2)
+## Trayectorias terrestre y lunar
 
-Ejemplo:
+Esta simulación permite apreciar el movimiento conjunto de la Tierra y la Luna en Torno al Sol.
+
+Permite además observar las trayectorias y los vectores posición de cada astro.
 
 <div id="simple-sketch-holder" style="position: relative;">
 	<script type="text/javascript" src="sketch.js"></script>
