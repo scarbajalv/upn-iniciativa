@@ -74,7 +74,7 @@ function setup() {
   checkboxRad1.parent('simple-sketch-holder');
   checkboxRad1.position(0, 20);
 
-  checkboxAxes = createCheckbox('Axes', false);
+  checkboxAxes = createCheckbox('Ejes', false);
 	checkboxAxes.style('color','white');
 	checkboxAxes.style('font-size',16+'px');
   checkboxAxes.parent('simple-sketch-holder');

@@ -28,7 +28,7 @@ Sin embargo, las simulaciones computacionales también presentas grandes retos, 
 2. Las simulaciones existentes no necesariamente se ajustan a las necesidades de la Universidad, ya sea en términos de la calidad de la simulación, la propiedad intelectual del creador de las simulaciones o el contenido del sílabo de la universidad.
 3. Recurrir a una simulación externa aleja al estudiante del contenido producido por la universidad.
 
-La presente iniciativa busca formar una **comunidad de docentes y estudiantes que colaboren** para producir simulaciones computacionales que sean propiedad directa de la universidad. De este modo, la universidad puede decidir acerca de qué contenido ofrecen las simulaciones.
+La presente iniciativa busca formar una **comunidad de docentes y estudiantes que colaboren** para producir simulaciones computacionales para el curso de Física 2 que sean propiedad intelectual directa de la universidad. De este modo, la universidad puede decidir acerca de qué contenido ofrecen las simulaciones.
 
 Estas simulaciones pueden ser también **mejoradas y adaptadas para actuar como laboratorios virtuales** que los estudiantes pueden realizar y que los docentes pueden evaluar. La ventaja de tener control absoluto sobre los laboratorios virtuales radica en que estos se pueden ajustar a las necesidades de la universidad, además de presentar un **ahorro considerable de recursos**.
 
@@ -47,5 +47,6 @@ La iniciativa presenta las siguientes ventajas de impacto:
 3. Genera una interacción entre docentes de distintas disciplinas, especialmente entre física e ingeniería de sistemas o informática.
 4. La participación de los estudiantes les brinda una experiencia desde el pregrado que luego podrán utilizar en sus vidas profesionales.
 5. Los docentes participantes se comprometen al desarrollo de la universidad y además mejoran sus habilidades profesionales, tanto en el manejo de lenguajes de programación y el desarrollo web como en las ciencias fisicas y la docencia.
+6. Una vez el grupo de trabajo organice y maneje las herramientas de las simulaciones, es posible generalizar lo obtenido y producir simulaciones para diversos cursos de la universidad.
 
 
